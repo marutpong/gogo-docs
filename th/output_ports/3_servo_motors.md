@@ -1,6 +1,6 @@
 ## 4.3 Servo Motors {#4-3-servo-motors}
 
-![](https://lh5.googleusercontent.com/WQpYAfu1aYOfRxIz_oqWYOkVptEH7iIiwSAKURXIVdyMCRLnj47XNE62f2g0UaFOou98B78OMBf6qJ8sylt-85mX1u8YM2GvgPLzOa8WVNV1nvocqmxPoiYXaSiCtONyh447SGEb)![](https://lh6.googleusercontent.com/S1I54cfV4hcgu4VOB9M-YNv9YssnecjImRvx70-_txz4gIuMA_-A1UXHuYU6YHx0ezDw0gOzHE_CtcMeBBvsVy7u0D1AB3G4w39_acm3zjPHRxnl4r3ZwD7t-FiPlEPiJHcEWgDc)
+![](https://lh6.googleusercontent.com/fU0QftXOHy3VbyGTc1aRNnD1kurWow3D8IT1lpdvgB0-vD1ApgOzzg0zX1bJtrUwpPsVBcB0CgEbzTz8necNezOAu-4Asn-ClkIkRwjX_FiHGvQdnrcoaJNL9aU2xMMot4QQ9eD_)![](https://lh6.googleusercontent.com/S1I54cfV4hcgu4VOB9M-YNv9YssnecjImRvx70-_txz4gIuMA_-A1UXHuYU6YHx0ezDw0gOzHE_CtcMeBBvsVy7u0D1AB3G4w39_acm3zjPHRxnl4r3ZwD7t-FiPlEPiJHcEWgDc)
 
 To use the servo motor mode, press the servo mode button. When in this servo mode, the DC motor operations will be grayed out. The “Set Power” button will become “Set Head.” To control the servo, move the slider. The servo motor should turn accordingly.
 
