@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "language-picker",
+        "page-toc",
+        "-lunr",
+        "-search",
+        "search-plus"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    }
+    
+}

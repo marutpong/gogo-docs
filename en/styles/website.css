@@ -1,0 +1,3 @@
+ul.summary > li:not([class]), ul.summary > li.divider {
+    display: none;
+}
