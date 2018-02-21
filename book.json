@@ -9,7 +9,7 @@
     ],
     "pluginsConfig": {
         "downloadpdf": {
-          "base": "https://www.gitbook.com/download/pdf/book/marutpong/gogo-docs",
+          "base": "https://www.gitbook.com/download/pdf/marutpong/gogo-docs",
           "label": {
                 "en": "Download PDF",
                 "th": "ดาวน์โหลดไฟล์ PDF"
