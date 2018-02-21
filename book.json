@@ -5,18 +5,17 @@
         "-lunr",
         "-search",
         "search-plus",
-        "downloadpdf"
+        "download-pdf-link"
     ],
     "pluginsConfig": {
-        "downloadpdf": {
-          "base": "https://www.gitbook.com/download/pdf/marutpong/gogo-docs",
+        "download-pdf-link": {
+          "base": "https://www.gitbook.com/book/marutpong/gogo-docs/",
           "label": {
-                "en": "Download PDF",
-                "th": "ดาวน์โหลดไฟล์ PDF"
-            },
-          "multilingual": true
+              "en": "Download PDF",
+              "fr": "ดาวน์โหลดไฟล์ PDF"
+          }
         }
-  },
+      },
     "styles": {
         "website": "styles/website.css"
     }
