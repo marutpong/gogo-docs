@@ -5,7 +5,9 @@
         "-lunr",
         "-search",
         "search-plus",
-        "download-pdf-link"
+        "download-pdf-link",
+        "richquotes",
+        "copy-code-button"
     ],
     "pluginsConfig": {
         "download-pdf-link": {
@@ -13,7 +15,8 @@
           "label": {
               "en": "Download PDF",
               "fr": "ดาวน์โหลดไฟล์ PDF"
-          }
+          },
+          "multilingual": true
         }
       },
     "styles": {
