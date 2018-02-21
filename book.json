@@ -15,7 +15,7 @@
           "base": "https://www.gitbook.com/download/pdf/book/marutpong/gogo-docs",
           "label": {
               "en": "Download PDF",
-              "fr": "ดาวน์โหลดไฟล์ PDF"
+              "th": "ดาวน์โหลดไฟล์ PDF"
           },
           "multilingual": true
         },
