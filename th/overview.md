@@ -1,4 +1,4 @@
-# 1. Overview of the GoGo Board {#1-overview-of-the-gogo-board}
+# 1. ทำความรู้จักกับโกโกบอร์ด {#1-overview-of-the-gogo-board}
 
 ![](https://lh5.googleusercontent.com/17tsV9kfvhpPcAZYZ_wOjowRKrjiFHYJkLYbz5q8XhHpOLyCaOSUJTkyBfY7Jux8MWOk1wCI1MklfAnxjKHtrtGyqcBm5m8SFYZRWERY7vHG1WxAGzPYy90QgFRjqszl3tPWWqSa)
 
