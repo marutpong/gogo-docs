@@ -4,8 +4,19 @@
         "page-toc",
         "-lunr",
         "-search",
-        "search-plus"
+        "search-plus",
+        "downloadpdf"
     ],
+    "pluginsConfig": {
+        "downloadpdf": {
+          "base": "https://www.gitbook.com/download/pdf/book/marutpong/gogo-docs",
+          "label": {
+                "en": "Download PDF",
+                "th": "ดาวน์โหลดไฟล์ PDF"
+            },
+          "multilingual": true
+        }
+  },
     "styles": {
         "website": "styles/website.css"
     }
