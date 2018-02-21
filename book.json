@@ -3,6 +3,7 @@
         "-lunr",
         "-search",
         "search-plus",
+        "ga",
         "language-picker",
         "page-toc",
         "download-pdf-link",
@@ -20,6 +21,9 @@
         },
         "language-picker": {
             "grid-columns": 2
+        },
+        "ga": {
+            "token": "UA-83816046-9"
         }
       },
     "styles": {
