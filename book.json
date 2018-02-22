@@ -8,7 +8,8 @@
         "page-toc",
         "download-pdf-link",
         "richquotes",
-        "copy-code-button"
+        "copy-code-button",
+        "back-to-top-button"
     ],
     "pluginsConfig": {
         "download-pdf-link": {
